@@ -115,6 +115,11 @@ Completar `db.password` con la contraseña local de MySQL antes de ejecutar la a
 
 ## Generación del archivo ejecutable
 
+En NetBeans:
+```text
+Run > Clean and Build Project
+```
+
 El archivo ejecutable se genera dentro de `dist/`.
 
 Para ejecutarlo fuera de NetBeans, mantener juntos:
